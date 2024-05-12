@@ -1,0 +1,2 @@
+path/to/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
